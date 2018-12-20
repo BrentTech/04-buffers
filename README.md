@@ -1,9 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 04 Buffers
 
-### Author: Student/Group Name
+### Author: Brent Woodward
+
+### Collaborators:
+* Heather C.
 
 ### Links and Resources
 * [repo](http://xyz.com)
@@ -22,21 +25,13 @@ Usage Notes or examples
 Usage Notes or examples
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
+* Endpoint: `/`
   * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
 #### Tests
 * How do you run tests?
+npm test, or npm test-watch
 * What assertions were made?
 * What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
