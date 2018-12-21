@@ -9,10 +9,9 @@
 * Heather C.
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [![Build Status](https://www.travis-ci.com/BrentTech/04-buffers.svg?branch=master)](https://www.travis-ci.com/BrentTech/04-buffers)
+* [repo](https://github.com/BrentTech/04-buffers)
+* [travis](https://www.travis-ci.com/BrentTech/04-buffers)
 
 ### Modules
 #### `modulename.js`
