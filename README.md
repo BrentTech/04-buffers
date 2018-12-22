@@ -7,6 +7,9 @@
 
 ### Collaborators:
 * Heather C.
+* Ryan G.
+* Becca L.
+* Siobhan N.
 
 ### Links and Resources
 * [![Build Status](https://www.travis-ci.com/BrentTech/04-buffers.svg?branch=master)](https://www.travis-ci.com/BrentTech/04-buffers)
